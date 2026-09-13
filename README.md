@@ -91,25 +91,6 @@ ToolFinder comes with a pre-configured `netlify.toml` file ready for instant dep
 
 ---
 
-## 🔑 Environment Variables
-
-Refer to `.env.example` for all configurable variables:
-
-```bash
-# Server-side AI
-GEMINI_API_KEY=""
-OPENAI_API_KEY=""
-
-# Client-side Firebase (Optional)
-VITE_FIREBASE_API_KEY=""
-VITE_FIREBASE_AUTH_DOMAIN=""
-VITE_FIREBASE_PROJECT_ID=""
-VITE_FIREBASE_STORAGE_BUCKET=""
-VITE_FIREBASE_MESSAGING_SENDER_ID=""
-VITE_FIREBASE_APP_ID=""
-```
-
----
 
 ## 💻 Local Development
 
